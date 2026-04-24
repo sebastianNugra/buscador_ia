@@ -125,6 +125,6 @@ AI tools were used to assist in the implementation, but the main goal was to und
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
